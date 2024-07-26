@@ -2,7 +2,7 @@
 Table of Content:
  - [Project Overview](#project-overview)
  - [Data Source](#data-source)
- - [Results](#results-and-analysis)
+ - [Results](#results-and-findings)
  - [Challenges in Analysis](#challenges-in-analysis)
 
 ### Project Overview
