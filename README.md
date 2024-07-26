@@ -49,3 +49,5 @@ We had 2 column for genres, but we needed to combine them and have the same form
                                                         type table [Movie Title=nullable text, Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor First=nullable text, Actor Second=nullable text, Actor Third=nullable text, Actor Fourth=nullable text, Actor Fifth=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}
                                             }
 ```
+### Excel Dashboard
+Can be downloaded here [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16385266/Movies.Data.Dashboard.xlsx)
